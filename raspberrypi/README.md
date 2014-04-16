@@ -59,7 +59,7 @@
 
 * Blog
 
-  [link](http://pi.08opt.com/)
+  [Pi](http://pi.08opt.com/)
 
 
 
