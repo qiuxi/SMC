@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-#ignore folder
-/bigfile/*
 
-=======
+#ignore folder/file
+
 .DS_Store
->>>>>>> eaa8f73ffb9832cb954e1c96b950b7b12dde38aa
