@@ -1,0 +1,2 @@
+git config --global alias.SMC '!git add . && git commit -m "SMC update" && gi
+t push origin master'
