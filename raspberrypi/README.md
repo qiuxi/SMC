@@ -8,7 +8,19 @@
   [CM-V1.1](http://www.raspberrypi.org/wp-content/uploads/2014/04/RPI-CM-V1_1-SCHEMATIC.pdf)
   
   [CMIO-V1.2](http://www.raspberrypi.org/wp-content/uploads/2014/04/RPI-CMIO-V1_2-SCHEMATIC.pdf)
+
+  [LAN9512 Reference Design](http://ww1.microchip.com/downloads/en/DeviceDoc/9512_sch.pdf)
   
+* Datasheet
+  
+  [LAN9512](http://ww1.microchip.com/downloads/cn/DeviceDoc/9512.pdf)
+
+  [BCM2835](http://www.raspberrypi.org/wp-content/uploads/2012/02/BCM2835-ARM-Peripherals.pdf)
+
+  [ARM 11](http://infocenter.arm.com/help/topic/com.arm.doc.ddi0301h/DDI0301H_arm1176jzfs_r0p7_trm.pdf)
+
+
+
 * Magazine
 
   [The MagPi 01](http://www.themagpi.com/issue/issue-1/)
@@ -74,3 +86,7 @@
   [R2.0 Update](http://www.raspberrypi.org/upcoming-board-revision/)
   
   [RaspberryPi PCB modules](http://www.andrewscheller.co.uk/rpi_pcb_modules.html)
+
+  [temperaturas](http://www.geektopia.es/es/technology/2012/06/22/articulos/se-calienta-el-ordenador-raspberry-pi-estudio-de-sus-temperaturas-en-funcionamiento.html)
+
+  [RPi Adding USB Drives](http://elinux.org/RPi_Adding_USB_Drives)
